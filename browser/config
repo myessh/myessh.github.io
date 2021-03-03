@@ -1,2 +1,3 @@
 mozilla
-  background timer throttle browser://flags
+  background timer throttle 
+    browser://flags > find(background) : Throttle Javascript timers in background, Enable Sleeping Tabs, Enable immediate timeout for Sleeping Tabs
