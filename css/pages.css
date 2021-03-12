@@ -6,5 +6,5 @@
     font-family: "BMHANNA";
     src: url( '/font/BMHANNA.ttf') format( 'truetype');
 }
-*{font-family: 'BMJUA', sans-serif;}
+body{font-family: 'BMJUA', sans-serif;}
 .ft-bmhanna{font-family: 'BMHANNA', sans-serif;}
