@@ -1,1 +1,90 @@
+
+윈도우
+================================================================================
+윈도우 키+E> 윈도우 탐색기 실행
+윈도우 키+R> 윈도우 실행창 실행
+윈도우 키+D> 모든 창 최소화> 다시 단축키 누르면 창이 원래대로 돌아옴
+윈도우 키+M> 모든 창을 최소화> 윈도우 키+Shift+M
+윈도우 키+L> 컴퓨터 잠금
+윈도우 키+Pause/Break> 시스템 등록정보 창을 띄움> '시작 - 제어판 - 시스템' 과 동일
+================================================================================
+
+실행창 명령어
+================================================================================
+기본명령어
+--------------------------------------------------------------------------------
+notepad : 메모장
+regedit : 레지스트리 편집기
+calc : 계산기
+mspaint : 그림판
+clipbrd : 클립북 뷰어
+cmd : 도스창
+dxdiag : 다이렉트X 진단도구
+iexplore : 익스플로러
+mstsc : 원격 데스크탑
+osk : 화상 키보드
+winword : MS Office 워드
+powerpnt : MS Office 파워포인트
+excel : MS Office 엑셀
+outlook : MS Office 아웃룩
+wordpad : 워드패드
+winmine : 지뢰찾기
+sndvol : 볼륨조절
+rstrui : 시스템 복원
+msconfig : 시작프로그램 제어 등 시스템 상태 기초 환경설정
+sysedit : 시스템구성편집기 (autoexec.bat , config.sys ,win.ini, system.ini)
+--------------------------------------------------------------------------------
+제어판명령어
+--------------------------------------------------------------------------------
 환경변수 sysdm.cpl ,3
+Access.cpl : 내게 필요한 옵션
+appwiz.cpl : 프로그램 추가/제거
+bthprops.cpl : 블루투스장치설정
+desk.cpl : 디스플레이 등록정보
+firewall.cpl : Windows방화벽
+hdwwiz.cpl : 새하드웨어추가마법사
+inetcpl.cpl : 인터넷등록정보
+intl.cpl : 국가및언어옵션
+irprops.cpl : 적외선포트 설정
+joy.cpl : 게임컨트롤러
+main.cpl : 마우스등록정보
+mmsys.cpl : 사운드및 오디오장치등록정보
+ncpa.cpl : 네트워크연결
+netsetup.cpl : 네트워크설정마법사
+nusrmgr.cpl : 사용자계정
+nwc.cpl : 네트워크 게이트웨이
+odbccp32.cpl : ODBC데이터원본 관리자
+powercfg.cpl :  전원옵션 등록정보
+sysdm.cpl : 시스템등록정보
+telephon.cpl : 전화및모뎀 옵션  
+timedate.cpl : 날짜 및 시간 등록정보
+wscui.cpl : Windows보안센터
+wuaucpl.cpl : 자동업데이트
+Sapi.cpl : 텍스트 음성 변환설정
+control admintools : 관리도구
+control folders : 폴더옵션
+control userpasswords : 사용자 계정
+--------------------------------------------------------------------------------
+관리콘솔
+--------------------------------------------------------------------------------
+certmgr.msc : 인증서
+ciadv.msc : 인덱싱서비스
+ntmsmgr.msc : 이동식저장소
+ntmsoprq.msc : 이동식저장소 운영자 요청
+secpol.msc : 로컬보안정책
+wmimgmt.msc : WMI(Windows Management Infrastructure)
+compmgmt.msc : 컴퓨터 관리
+devmgmt.msc : 장치관리자
+diskmgmt.msc : 디스크 관리
+dfrg.msc : 디스크 조각모음
+eventvwr.msc : 이벤트 뷰어
+fsmgmt.msc : 공유폴더
+gpedit.msc : 로컬 컴퓨터 정책
+lusrmgr.msc : 로컬 사용자 및 그룹
+perfmon.msc : 성능모니터뷰
+rsop.msc : 정책의 결과와 집합
+secpol.msc : 로컬 보안설정
+services.msc : 서비스
+comexp.msc : 구성요소서비스
+--------------------------------------------------------------------------------
+================================================================================
