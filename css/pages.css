@@ -1,8 +1,9 @@
 @font-face {
-font-family: "BMJUA";
+    font-family: "BMJUA";
     src: url( './font/BMJUA.ttf') format( 'truetype');
 }
-font-family: "BMHANNA";
+@font-face {
+    font-family: "BMHANNA";
     src: url( './font/BMHANNA.ttf') format( 'truetype');
 }
 *{font-family: 'BMJUA', sans-serif;}
