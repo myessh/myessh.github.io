@@ -1,0 +1,2 @@
+visual studio code terminal admin auth execute
+  > powershell(admin) > set-ExecutionPolicy RemoteSigned
